@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Split The Bill</string>
+    <string name="TxtTitle">Split The Bill</string>
+    <string name="TxtTitle2">Let\'s Split It!</string>
+    <string name="Description">Bill Image</string>
+    <string name="TxtSubtext">**18% Gratuity included</string>
+    <string name="BtnBegin">Let\'s Begin</string>
+    <string name="Prompt">How Was Your Service?</string>
+    <string-array name="txtService"><item>Excellent</item> <item>Average</item>
+    <item>Poor</item></string-array>
+    <string name="BtnSplit">Split Bill</string>
+</resources>
